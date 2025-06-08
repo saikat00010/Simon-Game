@@ -1,4 +1,3 @@
-
 # Simon Game
 
 A web-based implementation of the classic Simon memory game. Test your memory skills by repeating increasingly complex sequences of colors and sounds.
@@ -34,7 +33,7 @@ A web-based implementation of the classic Simon memory game. Test your memory sk
 
 ## 📁 Project Structure
 
-
+```
 simon-game/
 ├── index.html         # Main HTML file
 ├── styles.css         # CSS styles
@@ -46,20 +45,21 @@ simon-game/
 │   ├── yellow.mp3
 │   └── wrong.mp3
 └── README.md          # Project documentation
-
+```
 
 ## 🔧 Setup Instructions
 
 ### Local Development
 
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/yourusername/simon-game.git
    cd simon-game
-   
+   ```
 
-2. Open the index.html file in your browser:
-   bash
+2. Open the `index.html` file in your browser:
+   ```bash
    open index.html   # On macOS
    # OR
    start index.html  # On Windows
+   ```
